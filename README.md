@@ -11,8 +11,10 @@ This repository is part of the **Codetive** learning platform which launches in 
 The questions are organized by:
 - **Category**
   - 🥊 **Coding challenges**: Solve coding problems with our built-in code editor, complete with a preview, console, and automated tests—just like LeetCode! [practical, interview, algorithms, apis]
+
   - 📝 **Trivia questions**: Test your knowledge with quick, engaging web development quizzes. [quick, fun, reinforced learning, not practical for interview]
-  - **Components**: Tackle frontend challenges with provided UI and Figma files to bring designs to life. [interview, portfolio, practical, ui, figma]
+
+  - 📦**Components**: Tackle frontend challenges with provided UI and Figma files to bring designs to life. [interview, portfolio, practical, ui, figma]
 
 - **Difficulty**
   - Beginner
@@ -29,6 +31,7 @@ The questions are organized by:
   - React (soon...)
   - Nextjs (soon...)
   - Nodejs (soon...)
+  
   
 On top of that, on Codetive app all questions and challenges are sorted by tags such as **portoflio**, **interview**, **first job** etc.
 
