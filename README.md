@@ -1,10 +1,10 @@
 # Frontend Coding Challenges
 
 Welcome to the **Frontend Coding Challenges** repository! 
-
+https://github.com/Codetive/frontend-coding-challenges/blob/main/README.md
 This repository is a collection of coding questions & challenges designed to help you improve your frontend development skills.
 
-Codetive app teaser video link: [Link]([https://youtu.be/AGvfFvPeMzc](https://youtu.be/y_SI9LKRf4k)
+Codetive app teaser video link: [Link](https://youtu.be/y_SI9LKRf4k)
 
 ## Introduction
 
