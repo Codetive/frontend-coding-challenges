@@ -1,3 +1,5 @@
+![banner](banner.png)
+
 # Frontend Coding Challenges
 
 Welcome to the **Frontend Coding Challenges** repository! 
