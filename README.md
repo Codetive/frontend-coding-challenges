@@ -6,11 +6,9 @@ Welcome to the **Frontend Coding Challenges** repository!
 
 This repository is a collection of coding questions & challenges designed to help you improve your frontend development skills.
 
-Codetive app teaser video link: [Link](https://youtu.be/y_SI9LKRf4k)
-
 ## Introduction
 
-This repository is part of the **Codetive** learning platform which launches in September 2024.
+This repository is part of the **Codetive** learning platform which launched its beta version on 30th September 2024. You can visit the platform [here](https://codetive.dev).
 
 The questions are organized by:
 - **Category**
